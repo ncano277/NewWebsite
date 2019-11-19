@@ -1,0 +1,14 @@
+ul {
+
+	list-style-type: none;
+	margin: 0
+	padding: 0;
+}
+a {
+	color: #708090;
+	text-decoration: none;
+}
+body{
+	background-color:black;
+	background-image: url("Gradient Wallpaper");
+}
